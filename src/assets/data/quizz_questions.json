@@ -1,0 +1,119 @@
+{
+    "title":"Você gosta de filme de terror ?",
+    "questions":[
+      {
+        "id":1,
+        "question": "Qual nome do boneco que é protagonista do filme Chucky?",
+        "options":[
+          {"id": 1, "name":"Robert", "alias":"B"},
+          {"id": 2, "name":"Buzz-Ligthear", "alias":"B"},
+          {"id": 3, "name":"Chucky", "alias":"A"},
+          {"id": 4, "name":"Barbie", "alias":"B"},
+          {"id": 5, "name":"Fofão", "alias":"B"}
+        ]
+      },
+      {
+        "id":2,
+        "question": "Qual nome do protagonista do filme Haloween?",
+        "options":[
+          {"id": 1, "name":"Jair Bolsonaro", "alias":"B"},
+          {"id": 2, "name":"Tiririca", "alias":"B"},
+          {"id": 3, "name":"Michael Mayers", "alias":"A"},
+          {"id": 4, "name":"Lazaro","alias":"B"},
+          {"id": 5, "name":"Sr Arnaldo","alias":"B"}
+        ]
+      },
+      {
+        "id":3,
+        "question": "Qual filme tem uma boneca amaldiçoada protagonista?",
+        "options":[
+          {"id": 1, "name":"Barbie", "alias":"B"},
+          {"id": 2, "name":"A orfã", "alias":"B"},
+          {"id": 3, "name":"Suzy", "alias":"B"},
+          {"id": 4, "name":"Anabelle", "alias":"A"},
+          {"id": 5, "name":"Xuxa", "alias":"B"}
+        ]
+      },
+      {
+        "id":4,
+        "question": "No filme massacre da serra eletrica, o assasino usava qual arma para suas vitimas?",
+        "options":[
+          {"id": 1, "name":"Um badogue", "alias":"B"},
+          {"id": 2, "name":"Um cipó", "alias":"B"},
+          {"id": 3, "name":"Um facão", "alias":"B"},
+          {"id": 4, "name":"Uma serra eletrica", "alias":"A"},
+          {"id": 5, "name":"Uma havaiana de pau", "alias":"B"}
+        ]
+      },
+      {
+        "id":5,
+        "question": "No filme A orfã, qual era o nome real de Esther?",
+        "options":[
+          {"id": 1, "name":"Eliene", "alias":"B"},
+          {"id": 2, "name":"Ingrid Lima", "alias":"B"},
+          {"id": 3, "name":"Leena", "alias":"A"},
+          {"id": 4, "name":"FlordeLis", "alias":"B"},
+          {"id": 5, "name":"Suzana Von Richthofen", "alias":"B"}
+        ]
+      },
+      {
+        "id":6,
+        "question": "Invocação do mal é um filme que fala sobre :",
+        "options":[
+          {"id": 1, "name":"Uma banda de pagode", "alias":"B"},
+          {"id": 2, "name":"Assistir Domingão do Faustão", "alias":"B"},
+          {"id": 3, "name":"Uma entidade maligna", "alias":"A"},
+          {"id": 4, "name":"Tico e Teco , os esquilos", "alias":"B"},
+          {"id": 5, "name":"Walter Martins", "alias":"B"}
+        ]
+      },
+      {
+        "id":7,
+        "question": "Onde se passava o filme Hallowen?",
+        "options":[
+          {"id": 1, "name":"Macaúbas Sapeaçu", "alias":"B"},
+          {"id": 2, "name":"Farol da Barra", "alias":"B"},
+          {"id": 3, "name":"Barra do Jacuipe", "alias":"B"},
+          {"id": 4, "name":"Haddonfield", "alias":"A"},
+          {"id": 5, "name":"Cajazeiras", "alias":"B"}
+        ]
+      },
+      {
+        "id":8,
+        "question": "Qual filme de terror tem como protagonista um animal marinho?",
+        "options":[
+          {"id": 1, "name":"Free Willy", "alias":"B"},
+          {"id": 2, "name":"Moana", "alias":"B"},
+          {"id": 3, "name":"Avatar", "alias":"B"},
+          {"id": 4, "name":"Tubarão", "alias":"A"},
+          {"id": 5, "name":"Jesus", "alias":"B"}
+        ]
+      },
+      {
+        "id":9,
+        "question": "Qual vilão entra nos seus sonhos e te mata?",
+        "options":[
+          {"id": 1, "name":"Freddy Mercury", "alias":"B"},
+          {"id": 2, "name":"João Grilo", "alias":"B"},
+          {"id": 3, "name":"Michael Jackson", "alias":"B"},
+          {"id": 4, "name":"Freddy Krueger", "alias":"A"},
+          {"id": 5, "name":"Os 3 porquinhos", "alias":"B"}
+        ]
+      },
+      {
+        "id":10,
+        "question": "No filme Halloween , Michael Mayers usa qual ferramenta para suas mortes?",
+        "options":[
+          {"id": 1, "name":"Uma faca de serra", "alias":"B"},
+          {"id": 2, "name":"Um canivete", "alias":"B"},
+          {"id": 3, "name":"Uma chave de fenda", "alias":"B"},
+          {"id": 4, "name":"Uma faca enorme", "alias":"A"},
+          {"id": 5, "name":"Sua cara feia", "alias":"B"}
+        ]
+      }
+    ],
+    "results":{
+      "A": "Realmente! Você gosta de filmes de terror!!!",
+      "B": "Volte e vá assistir Teletubies, seu merdinha!"
+    }
+  }
